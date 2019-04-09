@@ -1,6 +1,7 @@
 # duetoagencia
 
-1.Execute create-nuxt-app my-project
+1.Execute create-nuxt-app my-project<br>
+cd my-project
 
 Certifique-se de ter node sass and sass-loader instalado
 <br>
